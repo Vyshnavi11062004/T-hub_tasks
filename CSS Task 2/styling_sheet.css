@@ -1,0 +1,157 @@
+* {
+	margin: 0; 
+	padding:0; 
+	box-sizing: border-box;
+}
+div{
+	height:1100px;
+	width:1510px;
+	background-color: #D8D9DA;
+	padding-top: 50px;
+
+}
+.a{
+	width: 1510px;
+	height: 20px;
+	background-color:#D8D9DA ;
+	}
+.b{
+	width: 400px;
+	height: 700px;
+	background-color:white;
+	float: left;
+	margin: 00px 40px 20px 50px;
+	border-radius: 20px;
+}
+.c{
+	height: 450px; width: 900px; background-color: white; 
+	float: right;
+	margin: 10px 100px 20px 10px;
+	border-radius: 20px;
+}
+.d{
+	height: 450px; width: 900px; background-color:white; 
+	margin: 480px 140px 120px 510px;
+	border-radius: 20px;
+}
+img{
+	 height: 160px;
+	 width: 280px;
+	 padding-left: 110px;
+	 
+}
+.e{
+	color: gray;
+	font-family: cursive;
+	text-align:center;
+}
+
+.bu{
+  background-color:#068FFF;
+  border:white solid 1px;
+  color: white;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px 5px 90px;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+.but{
+	 background-color:white;
+  border: blue solid 1px;
+  color: blue;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px 5px 40px;
+  cursor: pointer;
+  border-radius: 3px;
+
+}
+
+i{
+	font-size: 20px;
+	margin-left: 40px;
+	margin-top: 20px;
+}
+
+.butto{
+background-color:#068FFF;
+  border:white solid 1px;
+  color: white;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 4px 2px 5px 190px;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+input{
+	border-radius: 5px;
+}
+
+.f{
+	font-family: calibri;
+	margin-left: 20px;
+
+}
+span{
+	font-size: 15px;
+    font-family: cursive;
+    margin-left: 20px;
+}
+
+.bb{
+background-color:limegreen;
+  border:white solid 1px;
+  color: white;
+  padding: 20px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 1px 2px 5px 500px;
+  cursor: pointer;
+  border-radius: 3px;
+
+}
+.bc{
+	background-color:skyblue;
+  border:white solid 1px;
+  color: white;
+  padding: 20px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 1px 2px 5px 50px;
+  cursor: pointer;
+  border-radius: 3px;
+}
+.ba{
+	background-color:crimson;
+  border:none;
+  color: white;
+  padding: 15px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 1px 2px 5px 50px;
+  cursor: pointer;
+  border-radius: 3px;
+
+}
+select{
+	background-color: crimson;
+	border:none;
+}
